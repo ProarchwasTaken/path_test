@@ -2,7 +2,7 @@
 My first pathfinding algorithm
 
 I managed to write a pathfinding system without watching any direct coding tutorials on how to do it. All I've really 
-done before codeing this, is watch a video on how pathfinding algorithms generally work and figured out the rest. It
+done before coding this, is watch a video on how pathfinding algorithms generally work and figured out the rest. It
 wasn't easy though, this is probably the most lines of code I've written into a project so far.
 
 I've also went about doing a different script structure than normal. Personally I think it looks better.
